@@ -1,7 +1,7 @@
 1. **any, unknown, never** এর পার্থক্য
 2. **interface এবং type** এর মধ্যে পার্থক্য
 
-### ==> 1. any, unknown, never — পার্থক্য
+# 1. any, unknown, never — পার্থক্য
 
 ## any
 
@@ -82,7 +82,7 @@ console.log(usingNeverLoop());
 
 ---
 
-# Interface vs Type — পার্থক্য
+# 2. Interface vs Type — পার্থক্য
 
 #### A. Interface এ extends ব্যবহার করে অন্য interface কে extends করা যায় এর এটা type দিয়ে করতে গেলে intersection (&) ব্যবোহার করতে হয়
 
